@@ -41,4 +41,4 @@ Please make sure to update tests as appropriate.
 
 ## Github
 
-[Affan](https://choosealicense.com/licenses/mit/)
+[Affan](https://github.com/Affanmir/KeywordSearch/tree/main)
